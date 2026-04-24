@@ -1,0 +1,4 @@
+target/
+apache-camel-*/
+.vscode/
+*.log
